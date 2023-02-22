@@ -330,3 +330,4 @@ Is your (favourite) course not in there? Is a link dead? Did you find a typo? An
 - [**CRG**](https://github.com/biocorecrg/) | [website](https://biocorecrg.github.io/courses)
 - [**Bradley Boehmke** Data science learning resources](https://github.com/bradleyboehmke/data-science-learning-resources)
 - [**Ming Tang** Getting started with genomics tools and recources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
+line2_master
